@@ -8,6 +8,7 @@ import {
   Flex,
   Box,
   Spacer,
+  TagLeftIcon,
 } from "@chakra-ui/react";
 import { FcMenu, FcHome, FcAbout } from "react-icons/fc";
 import { BsSearch } from "react-icons/bs";
